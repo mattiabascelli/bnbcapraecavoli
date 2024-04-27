@@ -49,9 +49,10 @@ nav a:link {
     box-shadow: 0 0 10px rgba(0,0,0,0.5);
     color:#fff;
 }
-.main img {
+    .main img {
         width: 100%;
         height: auto;
+        max-width: 800px;
         border-radius: 10px;
     }
 
@@ -154,6 +155,12 @@ footer {
     color: #fff;
 }
 
+    .galleria img {
+        width: 100%;
+        height: auto;
+        max-width: 800px;
+        border-radius: 10px;
+    }
 
 .galleria h1 {
     text-align: center;
@@ -210,5 +217,6 @@ form {
         border-radius: 10px;
         width: 100%;
         height: auto;
+        max-width:450px;
         border-radius: 10px;
     }
